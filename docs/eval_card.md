@@ -4,7 +4,7 @@ Card này đi kèm mỗi báo cáo và được dùng lại ở Day 10.
 
 - **Run ID / eval set SHA:** baseline `E-swarm-20261117-096d`, eval set v1 `096d4f905046`.
 - **Phiên bản:**
-  - code: nhánh `starter/d09`; hash commit chốt điền khi commit;
+  - code: nhánh `starter/d09`, commit `d38959e`;
   - eval set v1 (sha `096d4f905046`);
   - metric_spec 1.0;
   - grader `lab9.graders`, cùng commit với code;
